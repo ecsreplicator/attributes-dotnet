@@ -1,0 +1,17 @@
+{
+    "name": "com.ecsreplicator.attributes.dotnet",
+    "version": "0.0.1",
+    "description": "Attributes for ECS Replication",
+    "displayName": "ECS Replicator Attributes",
+    "unity": "2022.3",
+    "author": {
+        "name": "Peter Bjorklund / ECS Replicator",
+        "email": "piot@hotmail.com",
+        "url": "https://github.com/piot"
+    },
+    "changelogUrl": "https://github.com/ecsreplicator/attributes-dotnet/blob/main/CHANGELOG.md",
+    "dependencies": {},
+    "documentationUrl": "https://github.com/ecsreplicator/attributes-dotnet/blob/main/README.md",
+    "license": "MIT",
+    "licensesUrl": "https://github.com/ecsreplicator/attributes-dotnet/blob/main/LICENSE"
+}
